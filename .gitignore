@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+
+.claude/
+
+TZ.md
+ROADMAP.md
+fintrack-structure.md
+
+*.log
+npm-debug.log*
